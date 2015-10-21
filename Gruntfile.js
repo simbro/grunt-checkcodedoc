@@ -1,5 +1,5 @@
 /*
- * checkcodedoc
+ * grunt-checkcodedoc
  * 
  *
  * Copyright (c) 2015 

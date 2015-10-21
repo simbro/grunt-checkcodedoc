@@ -1,21 +1,30 @@
 {
-  "name": "checkcodedoc",
-  "version": "0.0.1",
-  "description": "Checks a codebase to make sure all methods are documented properly",
-  "repository": "",
-  "author": {
-    "name": "",
-    "email": "",
-    "url": ""
-  },
-  "keywords": [
-    "gruntplugin"
-  ],
+  "name": "grunt-checkcodedoc",
+  "version": "0.1.0",
+  "description": "Checks a codebase to make sure all methods are documented properly.",
   "main": "Gruntfile.js",
   "engines": {
     "node": ">= 0.8.0"
   },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simbro/grunt-checkcodedoc.git"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "author": "Simon Brown",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simbro/grunt-checkcodedoc/issues"
+  },
+  "homepage": "https://github.com/simbro/grunt-checkcodedoc",
   "dependencies": {
     "colors": "~0.6.0",
     "js2xmlparser": "^1.0.0",
