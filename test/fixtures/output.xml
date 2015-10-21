@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+	<file>
+		<fileName>test/fixtures/checkcodedoc.js</fileName>
+		<errors>
+			<error>
+				<msg>Code doc only contains one line of description</msg>
+				<type>warning</type>
+				<lineNumber>47</lineNumber>
+				<methodName>checkDocBlock </methodName>
+			</error>
+			<error>
+				<msg>Documented arguments don&apos;t match method signature, 3 documented, 4 actual</msg>
+				<type>error</type>
+				<lineNumber>47</lineNumber>
+				<methodName>checkDocBlock </methodName>
+			</error>
+			<error>
+				<msg>Code doc only contains one line of description</msg>
+				<type>warning</type>
+				<lineNumber>92</lineNumber>
+				<methodName>_getMethodData </methodName>
+			</error>
+			<error>
+				<msg>Code doc only contains one line of description</msg>
+				<type>warning</type>
+				<lineNumber>125</lineNumber>
+				<methodName>_processFile </methodName>
+			</error>
+			<error>
+				<msg>Code doc only contains one line of description</msg>
+				<type>warning</type>
+				<lineNumber>238</lineNumber>
+				<methodName>textReport </methodName>
+			</error>
+			<error>
+				<msg>Method is not documented, or doc block is malformed</msg>
+				<type>error</type>
+				<lineNumber>259</lineNumber>
+				<methodName>pad</methodName>
+			</error>
+			<error>
+				<msg>Method is not documented, or doc block is malformed</msg>
+				<type>error</type>
+				<lineNumber>270</lineNumber>
+				<methodName>getHeaderRow</methodName>
+			</error>
+			<error>
+				<msg>Code doc only contains one line of description</msg>
+				<type>warning</type>
+				<lineNumber>317</lineNumber>
+				<methodName>jsonReport </methodName>
+			</error>
+			<error>
+				<msg>Documented argument is not a valid JavaScript type ( Integer )</msg>
+				<type>warning</type>
+				<lineNumber>317</lineNumber>
+				<methodName>jsonReport </methodName>
+			</error>
+			<error>
+				<msg>Code doc only contains one line of description</msg>
+				<type>warning</type>
+				<lineNumber>331</lineNumber>
+				<methodName>xmlReport </methodName>
+			</error>
+			<error>
+				<msg>Documented arguments don&apos;t match method signature, 1 documented, 2 actual</msg>
+				<type>error</type>
+				<lineNumber>331</lineNumber>
+				<methodName>xmlReport </methodName>
+			</error>
+		</errors>
+	</file>
+</files>
