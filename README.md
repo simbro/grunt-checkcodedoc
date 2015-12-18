@@ -1,4 +1,6 @@
-# checkcodedoc
+# CheckCodeDoc
+
+[![npm version](https://badge.fury.io/js/grunt-checkcodedoc.svg)](https://badge.fury.io/js/grunt-checkcodedoc)
 
 > Checks a codebase to make sure all methods are documented properly.
 
