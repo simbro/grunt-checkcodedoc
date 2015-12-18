@@ -1,5 +1,6 @@
 # CheckCodeDoc
 
+[![Build Status](https://travis-ci.org/simbro/grunt-checkcodedoc.svg?branch=master)](https://travis-ci.org/simbro/grunt-checkcodedoc)
 [![npm version](https://badge.fury.io/js/grunt-checkcodedoc.svg)](https://badge.fury.io/js/grunt-checkcodedoc)
 
 > Checks a codebase to make sure all methods are documented properly.
