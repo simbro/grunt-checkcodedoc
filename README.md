@@ -42,7 +42,7 @@ In your project's Gruntfile, add a section named `checkcodedoc` to the data obje
 Type: `String`
 Default value: `/@param\s*\{(.+)\}\s(.+)/`
 
-The format of document method arguments.
+The format of document method arguments. By default, this format follows the [jsDuck](https://github.com/senchalabs/jsduck) convention.
 
 #### options.shortDocWarnings
 Type: `Boolean`
